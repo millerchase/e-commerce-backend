@@ -6,6 +6,8 @@ This application supplies the backend required for a e-commerce website to be ab
 
 ---
 
+## Example Video
+
 ## Technologies
 
 - JavaScript
