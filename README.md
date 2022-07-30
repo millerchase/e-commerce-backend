@@ -6,7 +6,17 @@ This application supplies the backend required for a e-commerce website to be ab
 
 ---
 
-## Example Video
+## Example Videos
+
+### Part 1: (Startup, GET Routes, POST Routes)
+
+[Untitled_ Jul 29, 2022 8_49 PM.webm](https://user-images.githubusercontent.com/99565080/181867506-31b66184-ebf5-46ec-b8ed-ed40d24737ab.webm)
+
+
+### Part 2: (UPDATE Routes, DELETE Routes)
+
+[Untitled_ Jul 29, 2022 9_44 PM.webm](https://user-images.githubusercontent.com/99565080/181867523-2724f8d2-69d2-4986-ab35-f90f08c00423.webm)
+
 
 ## Technologies
 
