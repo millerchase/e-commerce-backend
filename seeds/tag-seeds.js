@@ -24,9 +24,6 @@ const tagData = [
   },
   {
     tag_name: 'pop culture'
-  },
-  {
-    tag_name: 'ball'
   }
 ];
 
